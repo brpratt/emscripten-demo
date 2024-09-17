@@ -32,5 +32,5 @@ make bin/04-js.html
 
 ## Bigger Examples
 
-[https://github.com/Jackbenfu/Pong](https://github.com/Jackbenfu/Pong)
-[https://github.com/gabrielcuvillier/d3wasm](https://github.com/gabrielcuvillier/d3wasm)
+- [https://github.com/Jackbenfu/Pong](https://github.com/Jackbenfu/Pong)
+- [https://github.com/gabrielcuvillier/d3wasm](https://github.com/gabrielcuvillier/d3wasm)
